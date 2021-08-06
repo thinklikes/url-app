@@ -121,4 +121,4 @@ failed
 ```
 
 ## Maintainers
-@thinklikes
+[@thinklikes](https://github.com/thinklikes).
